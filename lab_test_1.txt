@@ -1,0 +1,2 @@
+OBX|1|C100|20.0|
+NTE|1|Comment for C100 result|
